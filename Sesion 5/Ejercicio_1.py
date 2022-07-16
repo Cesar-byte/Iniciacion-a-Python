@@ -1,6 +1,4 @@
 from math import pi
-from xml.etree.ElementTree import PI
-
 
 def areaTiangulo (altura=0, base=0):
     return altura*base/2
